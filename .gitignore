@@ -1,6 +1,6 @@
 # 디폴트 무시된 파일
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
