@@ -200,3 +200,4 @@ downSun = '오후 7시 20분'
 print(f'일출시간은 {riseSun}이고, 일몰시간은 {downSun}입니다.')
 
 
+print(quotient = 7/3)
